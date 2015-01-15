@@ -1,0 +1,10 @@
+.content {
+  position: relative;
+  top: 50px;
+  margin: 0 auto;
+  width: 978px;
+  height: 600px;
+  background-color: #efefef;
+  border: 1px solid #ffaf55;
+  border-radius: 5px;
+}
